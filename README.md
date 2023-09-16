@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @epa9202(Feed Crawford)
-- 👀 I’m interested in ESP32,Arduino, Raspberry Pi
+- 👋 Hi, I’m @epa9202(Fred Crawford)
+- 👀 I’m interested in ESP32,Arduino, Raspberry Pi, Python, C++
 - 🌱 I’m currently working automating a switch on a G scale Model RxR using an esp32's
 - 💞️ #
 - 📫 How to reach me @ epa9202@yahoo.com 
